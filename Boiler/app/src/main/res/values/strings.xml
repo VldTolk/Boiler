@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Boiler</string>
+    <string name="button_turn_on">Включить</string>
+    <string name="button_turn_off">Выключить</string>
+</resources>
